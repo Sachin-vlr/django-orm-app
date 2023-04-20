@@ -5,8 +5,6 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
-
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -49,9 +47,7 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 
-
-## VERIFYING PRIMARY KEY
-
+![image](https://user-images.githubusercontent.com/113497666/233264164-27496822-9fb0-4527-b4bc-0e20ab7c8ee4.png)
 
 ## RESULT
 
